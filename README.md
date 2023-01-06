@@ -1,5 +1,7 @@
 # Projeto Front-end E-commerce (react) 🛍️
 
+O projete é o Front-end de E-commerce usando React.js para fazer as telas da aplicação web.
+
 O projeto Front-end E-commerce apresenta as seguintes telas.
 
 
